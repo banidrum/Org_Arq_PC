@@ -1,0 +1,19 @@
+push 5
+push 7
+mul
+pop
+push 7
+push 8
+add
+pop
+push 5
+push 25
+div
+pop
+push 10
+push 80
+sub
+pop
+push 10
+push 80
+mul
